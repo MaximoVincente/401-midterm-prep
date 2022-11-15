@@ -82,18 +82,18 @@ Github, Trello, Whiteboarding - InVision, and Miro.
 Plan out what your team’s Git workflow looks like for coding tasks.
 
 1. What components of your project will live on GitHub?
-The entire Project, other than external database. 
+- The entire Project, other than external database. 
 2. How will you share the repository with your teammates?
-An organization where we will have our repository for all work where we are all collaborators who are able to pull, push, merge etc.
+- An organization where we will have our repository for all work where we are all collaborators who are able to pull, push, merge etc.
 3. What is your Git flow?
-Having a PR review, with another team member, and then approve the request. 
+- Having a PR review, with another team member, and then approve the request. 
 4. Will you be using a PR review workflow? If so, consider:
-Yes
+- Yes
 5. How many people must review a PR?
-2 team members.
+- 2 team members.
 6. Who merges PRs?
-The team member that approves the PR will merge. 
+- The team member that approves the PR will merge. 
 7. How often will you merge?
-After all major functional components are finished a PR request and review should be discussed to merge to main.
+- After all major functional components are finished a PR request and review should be discussed to merge to main.
 8. How will you communicate that it’s time to merge?
-At our table in REMO. Never merge outside of REMO where most parties can be present.
+- At our table in REMO. Never merge outside of REMO where most parties can be present.
